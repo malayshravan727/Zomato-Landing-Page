@@ -275,9 +275,12 @@
   
   /*Email Subscribe*/
   
-  .update {
-    margin-left: 30%;
-    margin-right: 30%;
+  .email__subscribe__container {
+    margin-top: 3rem;
+    width: 100%;
+    padding: 15px;
+    margin-right: auto;
+    margin-left: auto;
   }
   .email__field {
     display: flex;
@@ -455,7 +458,7 @@
       margin-left: 2rem;
     }
     
-    .email__subcribe__container {
+    .email__subscribe__container {
       display: flex;
       justify-content: center;
     }
